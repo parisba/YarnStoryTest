@@ -1,0 +1,5 @@
+title: Start
+---
+Narrator: This is the start node in Test.yarn
+<<jump AnotherNode>>
+===
